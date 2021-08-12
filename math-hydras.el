@@ -1,5 +1,7 @@
 (require 'hydra)
 
+;; Hydra - Lower Case
+
 (defhydra math-lowercase (:color blue :columns 6)
   "Select your symbol below (also try C-c n)"
   ("a" (lambda () (interactive) (insert "α")) "α")
