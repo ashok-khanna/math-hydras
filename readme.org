@@ -1,4 +1,4 @@
-# Math Hydras
+* Math Hydras
 
 These are a set of keybindings for easy input of math symbols in Emacs. Hopefully when you look through the various keybindings you find them convenient and mnemonic :-)
 
